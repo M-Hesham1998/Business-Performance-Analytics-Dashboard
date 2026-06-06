@@ -57,7 +57,7 @@ The dashboard provides interactive insights through multiple report pages, helpi
 
 - YTD Revenue (Year-To-Date Revenue)
 - LYTD Revenue (Last Year-To-Date Revenue)
-- Previous Year Revenue
+- Previous Year Revenue (Same Month In Previous Year)
 - YoY Growth % (Annual Growth)
 
 ---
