@@ -1,0 +1,46 @@
+KEY INSIGHTS
+
+Revenue & Sales
+- Revenue grew steadily over time, increasing from approximately $585K per month in early 2015 to more than $1.8M by mid-2017.
+- The business experienced a slowdown during the first half of 2016, but sales recovered strongly in the second half of the year.
+- May and June recorded the highest revenue and profit, indicating stronger customer demand during these months.
+- Wednesday was the best-performing sales day of the week.
+
+Profit Analysis
+- The business maintained a strong Profit Margin of 41.97%, reflecting healthy profitability.
+- Bikes were the primary driver of profit, contributing the largest share of total profit.
+- Road Bikes and Mountain Bikes generated the highest profit among all product categories.
+- Tires & Tubes received a high number of orders but produced relatively low profit compared to other categories.
+- Mountain-200 was the most profitable product.
+
+Customer Insights
+- Customers with a Bachelor's Degree generated the highest revenue and profit.
+- Middle-Income customers contributed more revenue and profit than High-Income customers.
+- Customers in Professional occupations generated the highest profit.
+- Maurice was the most profitable customer during the analysis period.
+
+Products & Returns
+- Water Bottle - 30 oz. recorded the highest number of returns among all products.
+- Out of 293 products, 130 products had no sales, indicating opportunities to improve inventory performance.
+- The overall Return Rate was only 2.17%, showing that most products performed well.
+
+Regional Performance
+- The United States was the strongest-performing market overall.
+- Canada generated the lowest profit among the major countries in the dataset.
+- The Central region in the United States was the weakest-performing area, generating only $3.1K in revenue from 8 customers and 9 orders.
+
+Time Intelligence
+- Revenue increased consistently year over year throughout the analysis period.
+- Performance in 2017 was significantly stronger than the same periods in previous years.
+- A clear business recovery began in the second half of 2016, where growth shifted from negative results to strong positive performance.
+- Overall YoY Growth reached 166.24%, demonstrating substantial business expansion.
+
+
+BUSINESS RECOMMENDATIONS
+
+- Increase marketing efforts during May and June to maximize revenue during peak demand periods.
+- Prioritize Road Bikes and Mountain Bikes, as they generate the highest profit.
+- Investigate the high return volume of Water Bottle - 30 oz. to reduce return-related costs.
+- Review the 130 unsold products and consider promotions, bundling strategies, or discontinuation.
+- Focus on Middle-Income customers, as they represent the most valuable customer segment.
+- Analyze the weak performance of the Central region and identify opportunities to increase sales, customer acquisition, and market reach.
