@@ -114,7 +114,7 @@ The dashboard provides interactive insights through multiple report pages, helpi
 3. Investigate the high return volume of Water Bottle - 30 oz.
 4. Review the 130 unsold products and optimize inventory management.
 5. Target Middle-Income customers through marketing campaigns.
-6. Improve market penetration in the Central region.
+6. Improve market in the Central region In USA Country.
 
 ---
 
